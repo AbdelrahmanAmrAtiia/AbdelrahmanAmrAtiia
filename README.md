@@ -5,20 +5,6 @@
 ###
 
 <div align="center">
-  <a href="www.linkedin.com/in/abdelrahman-amr-a54b63183" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="abdelrahman.amr0409@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="37" height="25" alt="gmail logo"  />
-  </a>
-  <a href="wa.link/zqa7dd" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="37" height="25" alt="whatsapp logo"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=AbdelrahmanAmrAtiia.AbdelrahmanAmrAtiia&"  />
 </div>
 
